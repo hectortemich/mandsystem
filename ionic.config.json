@@ -1,0 +1,7 @@
+{
+  "name": "mandsystem",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
